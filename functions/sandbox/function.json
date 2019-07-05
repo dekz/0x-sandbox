@@ -1,0 +1,8 @@
+{
+    "name": "sandbox",
+    "description": "sandbox",
+    "runtime": "nodejs8.10",
+    "memory": 512,
+    "timeout": 30,
+    "role": "arn:aws:iam::883408475785:role/aws-lambda-default"
+}

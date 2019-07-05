@@ -1,0 +1,8 @@
+{
+  "name": "0x-sandbox",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::883408475785:role/0x-sandbox_lambda_function",
+  "environment": {}
+}
